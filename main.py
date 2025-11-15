@@ -27,6 +27,8 @@ file_lists = {
     "allowed_words": [],
     "blocked_words": []
 }
+incoming = []
+
 def load_json():
     global file
     with open(JSON, 'r') as f:
