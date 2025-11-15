@@ -15,9 +15,9 @@ api_id = int(getenv('API_KEY'))
 api_hash = getenv('API_HASH')
 client = TelegramClient('anon', api_id, api_hash)
 forwarded_ch = int(getenv('FORWARDED_CHANNEL'))
-me = ''
 JSON = 'data.json'
-BOT = 7769385180
+BOT = int(getenv('API_KEY')) 
+
 # json file setup
 file = ''
 file_lists = {
