@@ -27,7 +27,6 @@ file_lists = {
     "allowed_words": [],
     "blocked_words": []
 }
-incoming = []
 
 def load_json():
     global file
@@ -38,11 +37,14 @@ def load_json():
         file_lists["blocked_users"] = file["users"]["blocked"]
         file_lists['allowed_words'] = file['words']['allowed']
         file_lists["blocked_words"] = file["words"]["blocked"]
-
+counter = 0
 # PROGRAM main event
 # @client.on(events.NewMessage(incoming=True))
-@client.on(events.NewMessage(outgoing=True, pattern = re.compile(r"(" + "|".join(map(re.escape, file_lists["allowed_words"])) + r")", re.IGNORECASE)))
+@client.on(events.NewMessage(incoming=True, pattern = re.compile(r"(" + "|".join(map(re.escape, file_lists["allowed_words"])) + r")", re.IGNORECASE)))
 async def my_event_handler(event):
+    global counter
+    counter += 1
+    print(counter)
     load_json()
     # CHECK users
     chat_id = str(event.chat_id)

@@ -1,8 +1,10 @@
 from telegram import ReplyKeyboardMarkup, Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 import json
+from dotenv import load_dotenv
 from os import getenv
 
+load_dotenv()
 TOKEN = getenv('TOKEN')
 JSON = 'data.json'
 PAGE_SIZE = 10  # number of channels per page
