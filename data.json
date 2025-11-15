@@ -1,0 +1,885 @@
+{
+    "users": {
+        "allowed": [
+            {
+                "id": "-1003446394626",
+                "name": "group_test"
+            },
+            {
+                "id": "-1003405768698",
+                "name": "ch_test"
+            }
+        ],
+        "blocked": [],
+        "remained": [
+            {
+                "id": "-1003269990525",
+                "name": "AL2ahrani"
+            },
+            {
+                "id": "-1001943116023",
+                "name": "Gavin Crypto \ud83c\udfa9 Signals | Charts | News"
+            },
+            {
+                "id": "-1002733147180",
+                "name": "Devil Vip Channel Chat\ud83d\udc7b"
+            },
+            {
+                "id": "-1002723725166",
+                "name": "Devil Model Room Lifetime"
+            },
+            {
+                "id": "-1001784788110",
+                "name": "Mentorship chat group"
+            },
+            {
+                "id": "-1001662298104",
+                "name": "Binance Whale Volume Signals"
+            },
+            {
+                "id": "-1001598979246",
+                "name": "PrimeXBT - Global"
+            },
+            {
+                "id": "-1002191916063",
+                "name": "ORBIT 3\ufe0f\u20e36\ufe0f\u20e30\ufe0f\u20e3 \u00b0"
+            },
+            {
+                "id": "-1002126431207",
+                "name": "Pocket Option Bot Signals M1\ud83e\udd16"
+            },
+            {
+                "id": "-1002407440747",
+                "name": "Quotex Signals M5 Bot \ud83e\udd16"
+            },
+            {
+                "id": "-1001248357940",
+                "name": "WT | Binance Futures"
+            },
+            {
+                "id": "-1001989007993",
+                "name": "PocketOption Signals Bot M5 \ud83e\udd16"
+            },
+            {
+                "id": "-1001252363647",
+                "name": "VIP Results (binance 360)"
+            },
+            {
+                "id": "-1001743387695",
+                "name": "CRYPTO HUSTLE"
+            },
+            {
+                "id": "-1001162959662",
+                "name": "BITCOIN CRYPTO SIGNALS"
+            },
+            {
+                "id": "-1002286939792",
+                "name": "Binolla Signals M1 \ud83e\udd16"
+            },
+            {
+                "id": "-1002326090563",
+                "name": "RugPullBot Profits"
+            },
+            {
+                "id": "-1002576421824",
+                "name": "VIP Proofs (Crypto Musk)"
+            },
+            {
+                "id": "-1001853036360",
+                "name": "Coin Sonar V2"
+            },
+            {
+                "id": "-1001950238727",
+                "name": "Quotex Signals Bot M1 \ud83e\udd16"
+            },
+            {
+                "id": "-1002007658025",
+                "name": "THE WOLF (CRYPTO)\u00ae"
+            },
+            {
+                "id": "-1002883876214",
+                "name": "Pocket Option Bot Signals M15\ud83e\udd16"
+            },
+            {
+                "id": "-1002730986843",
+                "name": "\ud83d\udcb0SIMON | SMART TRADING\ud83d\udcb0"
+            },
+            {
+                "id": "-1001498307336",
+                "name": "Binance Futures 5m Volume Pump Monitor \ud83d\ude80"
+            },
+            {
+                "id": "-1001552004524",
+                "name": "CRYPTO MONK"
+            },
+            {
+                "id": "-1001727857237",
+                "name": "Crypto Musk"
+            },
+            {
+                "id": "-1002014096660",
+                "name": "Abod Crypto"
+            },
+            {
+                "id": "-1001314221782",
+                "name": "\ud83d\udc33 \ud835\udc16\ud835\udc07\ud835\udc00\ud835\udc0b\ud835\udc04\ud835\udc13\ud835\udc11\ud835\udc00\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc11 \ud83d\udc40"
+            },
+            {
+                "id": "-1001958769297",
+                "name": "CapChain"
+            },
+            {
+                "id": "-1002315878407",
+                "name": "Evelyn Morgan"
+            },
+            {
+                "id": "-1001297561296",
+                "name": "Gorilla Crypto"
+            },
+            {
+                "id": "-1001754095061",
+                "name": "Crypto Radar"
+            },
+            {
+                "id": "-1001390568202",
+                "name": "\ud835\udde3\ud835\udde5\ud835\udde2 \ud835\udde7\ud835\udde5\ud835\uddd4\ud835\uddd7\ud835\udddc\ud835\udde1\ud835\uddda \ud83d\udd30"
+            },
+            {
+                "id": "-1001594522150",
+                "name": "Whales_Pumps"
+            },
+            {
+                "id": "-1002899197323",
+                "name": "Forex Place Trading Signals"
+            },
+            {
+                "id": "-1001982472141",
+                "name": "CRYPTO [BEAST] \u2122"
+            },
+            {
+                "id": "-1001553551852",
+                "name": "Binance 360"
+            },
+            {
+                "id": "-1001798947530",
+                "name": "Wolf of Trading\u00ae"
+            },
+            {
+                "id": "-1001700533698",
+                "name": "Crypto Bulls\u00ae"
+            },
+            {
+                "id": "-1001895315984",
+                "name": "Crypto spider \ud83d\udd77\ufe0f scalper"
+            },
+            {
+                "id": "-1001370457350",
+                "name": "Crypto Neon"
+            },
+            {
+                "id": "-1002187090371",
+                "name": "BOOM TEAM \ud83d\udca5"
+            },
+            {
+                "id": "-1002920795037",
+                "name": "Ai Crypto Signals"
+            },
+            {
+                "id": "-1002337948615",
+                "name": "Inner Circle Trader (ICT)\ud83d\udcca"
+            },
+            {
+                "id": "-1001598691683",
+                "name": "Crypto Devil\u00ae [ Private \ud83d\udd12 ]"
+            },
+            {
+                "id": "-1002738642708",
+                "name": "Signal_Master\ud83c\udfc5"
+            },
+            {
+                "id": "-1001652601224",
+                "name": "Crypto World Updates"
+            },
+            {
+                "id": "-1001704664545",
+                "name": "smcFinesse"
+            },
+            {
+                "id": "-1001755199088",
+                "name": "Crypto Heaven\u00ae"
+            },
+            {
+                "id": "-1001540781192",
+                "name": "Brain Crypto \ud83e\udde0"
+            },
+            {
+                "id": "-1001556536752",
+                "name": "Oscar Crypto | Futures"
+            },
+            {
+                "id": "-1001603939142",
+                "name": "TPFX ANALYSIS"
+            },
+            {
+                "id": "-1003073187575",
+                "name": "VIP Radar Track"
+            },
+            {
+                "id": "-1002382156029",
+                "name": "WEALTHY FUTURES [VIP]\ud83d\udcca"
+            },
+            {
+                "id": "-1001230212077",
+                "name": "KING CRYPTO"
+            },
+            {
+                "id": "-1002128602498",
+                "name": "Saud binary \u26a1\ufe0f"
+            },
+            {
+                "id": "-1002135058198",
+                "name": "ProfitBros"
+            },
+            {
+                "id": "-1001656921849",
+                "name": "ESTR (Freemium Signals)\u00ae"
+            },
+            {
+                "id": "-1001398522723",
+                "name": "\ud83c\udf10\ud835\uddda\ud835\uddfc\ud835\uddf9\ud835\uddf1 | f\u03c3r\u03b5x r\u03b5s\u03b5arch \ud83d\udcb1\u269c\ufe0f"
+            },
+            {
+                "id": "-1002236358557",
+                "name": "Stanis\u0142aw o kryptowalutach"
+            },
+            {
+                "id": "-1002515158374",
+                "name": "Bartosz GOAT TRADING"
+            },
+            {
+                "id": "-1001151808092",
+                "name": "The Crypto Express"
+            },
+            {
+                "id": "-1002410451279",
+                "name": "WhaleTank Signals"
+            },
+            {
+                "id": "-1001884578992",
+                "name": "\ud835\uddd9\ud835\udde2\ud835\udde5\ud835\uddd8\ud835\uddeb \ud835\udde8\ud835\udddf\ud835\udde7\ud835\udde5\ud835\uddd4 \ud835\uddda\ud835\udde2\ud835\udddf\ud835\uddd7"
+            },
+            {
+                "id": "-1001783301467",
+                "name": "Crypto Safe Calls\u2122\ufe0f"
+            },
+            {
+                "id": "-1001164308989",
+                "name": "KING CRYPTO \ufe0f"
+            },
+            {
+                "id": "-1001584939836",
+                "name": "GOLD Snipers"
+            },
+            {
+                "id": "-1001284268486",
+                "name": "Easy Forex \ud83d\udc51 OFFICIAL CHANNEL"
+            },
+            {
+                "id": "-1002078531832",
+                "name": "Crypto Mermaids"
+            },
+            {
+                "id": "-1002320578356",
+                "name": "Coincove"
+            },
+            {
+                "id": "-1001669911123",
+                "name": "Green Rock Signal\u2122"
+            },
+            {
+                "id": "-1002056282475",
+                "name": "Phantom_Defi"
+            },
+            {
+                "id": "-1001331172114",
+                "name": "\ud835\uddda\ud835\udde2\ud835\udddf\ud835\uddd7 \ud835\udde6\ud835\udde1\ud835\udddc\ud835\udde3\ud835\uddd8\ud835\udde5\ud835\udde6 \ud835\uddd9\ud835\uddeb \u2122"
+            },
+            {
+                "id": "-1002457447385",
+                "name": "Simba_crpt"
+            },
+            {
+                "id": "-1001312345502",
+                "name": "Crypto VIP Signal"
+            },
+            {
+                "id": "-1002364703167",
+                "name": "Crypto pro traders"
+            },
+            {
+                "id": "-1001619115950",
+                "name": "\ud83d\udcb2 Options Trading With Fadi \ud83d\udcb2"
+            },
+            {
+                "id": "-1001338293070",
+                "name": "\ud835\udddd\ud835\udde8\ud835\udde6\ud835\udde7 \ud835\udde3\ud835\udde5\ud835\udde2\ud835\uddd9\ud835\udddc\ud835\udde7 - \u20bf"
+            },
+            {
+                "id": "-1002052324477",
+                "name": "BTCT"
+            },
+            {
+                "id": "-1001486981201",
+                "name": "A.R.S. Crypto Calls\u2122"
+            },
+            {
+                "id": "-1002126743269",
+                "name": "Philanthrop Alpha"
+            },
+            {
+                "id": "-1002140627621",
+                "name": "winkle."
+            },
+            {
+                "id": "-1001734634717",
+                "name": "The Profit EXPRESS 369"
+            },
+            {
+                "id": "-1001990093171",
+                "name": "\ud835\ude4f\ud835\ude6c (\ud835\ude3e\ud835\ude67\ud835\ude6e\ud835\ude65\ud835\ude69\ud835\ude64 \u0643\u0631\u064a\u0628\u062a\u0648)"
+            },
+            {
+                "id": "-1001487278892",
+                "name": "Crypto God"
+            },
+            {
+                "id": "-1002200556208",
+                "name": "Crypto Infinitum\u2122"
+            },
+            {
+                "id": "-1002884618575",
+                "name": "Nick Shawn\ud83c\uddfa\ud83c\uddf8"
+            },
+            {
+                "id": "-1001335852535",
+                "name": "GOLD Copy Trading"
+            },
+            {
+                "id": "-1001341948340",
+                "name": "Wise Advice Signal"
+            },
+            {
+                "id": "-1002007699575",
+                "name": "\ud835\ude3c\ud835\ude57\ud835\ude68\ud835\ude64\ud835\ude61\ud835\ude6a\ud835\ude69\ud835\ude5a \ud835\ude41\ud835\ude6a\ud835\ude69\ud835\ude6a\ud835\ude67\ud835\ude5a\ud835\ude68\u00d7"
+            },
+            {
+                "id": "-1001958616040",
+                "name": "Arabic Whales \u0627\u0644\u0639\u064e\u0631\u0651\u0627\u0628 \u0644\u0644\u0639\u0645\u0644\u0627\u062a \u0627\u0644\u0631\u0642\u0645\u064a\u0629"
+            },
+            {
+                "id": "-1002579547163",
+                "name": "\ud835\uddd9\ud835\udde2\ud835\udde5\ud835\uddd8\ud835\uddeb \ud835\udfef\ud835\udff2\ud835\udfec \ud835\uddda\ud835\udde2\ud835\udddf\ud835\uddd7"
+            },
+            {
+                "id": "-1001535515441",
+                "name": "Crypto Knights"
+            },
+            {
+                "id": "-1001271263213",
+                "name": "King of Futures"
+            },
+            {
+                "id": "-1001541002369",
+                "name": "TFXC SIGNALS"
+            },
+            {
+                "id": "-1001960070576",
+                "name": "SETUP"
+            },
+            {
+                "id": "-1001426684086",
+                "name": "\u26a1\ufe0f\u26a1\ufe0f WOLF TRADING\ud83d\udc3a"
+            },
+            {
+                "id": "-1002406773076",
+                "name": "MissionFX Trading"
+            },
+            {
+                "id": "-1001182476915",
+                "name": "AForexKingProOfficial Free Forex Signals\ud83d\ude80\ud83d\ude80"
+            },
+            {
+                "id": "-1001391228373",
+                "name": "AforexkingEAOfficial Forex Robot ( Forex EA )"
+            },
+            {
+                "id": "-1001312794873",
+                "name": "Crypto Planet Calls\u2122"
+            },
+            {
+                "id": "-1002764248409",
+                "name": "Comminicate\uff5cUnicorns\ud83e\udd84"
+            },
+            {
+                "id": "-1002898373035",
+                "name": "Crypto Unicorns\ud83e\udd84"
+            },
+            {
+                "id": "-1001217702004",
+                "name": "\ud83e\udde7 Rose Premium Signal \ud83c\udf39"
+            },
+            {
+                "id": "-1001969210392",
+                "name": "\ud83c\udf39VIP Rose Signal\ud83c\udf40"
+            },
+            {
+                "id": "-1001695282142",
+                "name": "\ud83c\udf39 Shaima Future \ud83c\udf39#Bingx"
+            },
+            {
+                "id": "-1001095525244",
+                "name": "GOLD Trader Dan"
+            },
+            {
+                "id": "-1002452215909",
+                "name": "AR"
+            },
+            {
+                "id": "-1001432529525",
+                "name": "Coin Signals"
+            },
+            {
+                "id": "-1001962172332",
+                "name": "Hunter Wolves | Crypto \ud83d\udc3a"
+            },
+            {
+                "id": "-1001555470470",
+                "name": "\ud83d\udc51US30 KINGDOM\ud83d\udc51"
+            },
+            {
+                "id": "-1001391574614",
+                "name": "Bitcoin Bulls"
+            },
+            {
+                "id": "-1002095437517",
+                "name": "GOLD EAGLE FOREX"
+            },
+            {
+                "id": "-1001505272164",
+                "name": "Crypto Conquered $"
+            },
+            {
+                "id": "-1002592721194",
+                "name": "\u269c\ufe0f Precision Gold Traders \u269c\ufe0f"
+            },
+            {
+                "id": "-1002026891034",
+                "name": "KingCobra Crypto-Charts"
+            },
+            {
+                "id": "-1001520053536",
+                "name": "Coin Chief"
+            },
+            {
+                "id": "-1001641060449",
+                "name": "\u2022\u2022\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd5\ud835\uddf6\ud835\ude01\ud835\uddf0\ud835\uddfc\ud835\uddf6\ud835\uddfb \ud835\uddd6\ud835\uddee\ud835\uddff\ud835\ude01\ud835\uddf2\ud835\uddf9\u2022\u2022"
+            },
+            {
+                "id": "-1002236934127",
+                "name": "Crypto VIP Express"
+            },
+            {
+                "id": "-1002382806818",
+                "name": "TRADING POINT"
+            },
+            {
+                "id": "-1001392009006",
+                "name": "SCALPING MARKET TRADING\u00ae"
+            },
+            {
+                "id": "-1001717284109",
+                "name": "Honey Crypto"
+            },
+            {
+                "id": "-1001274095237",
+                "name": "Crypto Signals \u00a9"
+            },
+            {
+                "id": "-1001244131552",
+                "name": "Rose Premium Signals \ud83c\udf39"
+            },
+            {
+                "id": "-1001102446227",
+                "name": "Crypto VIP \u042fR \u2122"
+            },
+            {
+                "id": "-1001564340384",
+                "name": "ELITE TRADING FX (ICT+CRT)"
+            },
+            {
+                "id": "-1001410449050",
+                "name": "Rose Paid Crypto Free \u2122\ud83d\udd12"
+            },
+            {
+                "id": "-1001770850958",
+                "name": "WFR_ANALYSIS & INSTITUTE_SMC"
+            },
+            {
+                "id": "-1001725462062",
+                "name": "GFR ANALYSIS FREE"
+            },
+            {
+                "id": "-1001629386616",
+                "name": "AamirFx_Pro ( #Father_Of_Gold )"
+            },
+            {
+                "id": "-1001434920650",
+                "name": "White Bullss \u2122"
+            },
+            {
+                "id": "-1003162463031",
+                "name": "\ud835\udc15\ud835\udc1e\ud835\udc27 \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc1d\ud835\udc1e | \u0648\u0650\u0646 \u062a\u0631\u06cc\u062f"
+            },
+            {
+                "id": "-1002524832035",
+                "name": "Trade X Top Global"
+            },
+            {
+                "id": "-1002266035358",
+                "name": "The Lizards (Crypto)"
+            },
+            {
+                "id": "-1001291335731",
+                "name": "Binance Spot & FutuRes Signals \ud83d\udc0b"
+            },
+            {
+                "id": "-1002607455283",
+                "name": "\ud835\udc06\ud835\udc0e\ud835\udc0b\ud835\udc03 \ud835\udc0f\ud835\udc00\ud835\udc08\ud835\udc11 \ud835\udc14\ud835\udc0f\ud835\udc03\ud835\udc00\ud835\udc13\ud835\udc04"
+            },
+            {
+                "id": "-1001567403919",
+                "name": "Objectivetrader||OBFX.Trading - FREE"
+            },
+            {
+                "id": "-1002191117437",
+                "name": "DUBAI_EXPERT \u00ae\ufe0f"
+            },
+            {
+                "id": "-1001247536344",
+                "name": "Elliott Wave Monitor"
+            },
+            {
+                "id": "-1001262300473",
+                "name": "Blockchain Usa Official ( Binance ) \ud83d\udc0b"
+            },
+            {
+                "id": "-1001129249318",
+                "name": "Supply and Demand Snipper"
+            },
+            {
+                "id": "-1002048276669",
+                "name": "\ud83c\udf10\ud835\uddda\ud835\uddfc\ud835\uddf9\ud835\uddf1 | f\u03c3r\u03b5x r\u03b5s\u03b5arch \ud83d\udcb1\u269c\ufe0f"
+            },
+            {
+                "id": "-1002489659866",
+                "name": "Trade With Sirkings \ud83c\udf03"
+            },
+            {
+                "id": "-1001126647644",
+                "name": "CryptoBullet"
+            },
+            {
+                "id": "-1001527480276",
+                "name": "\ud835\udc06\ud835\udc28\ud835\udc0b\ud835\udc1d \ud835\udc0f\ud835\udc2b\ud835\udc28 \ud835\udc12\ud835\udc22\ud835\udc06\ud835\udc0d\ud835\udc1a\ud835\udc0b\ud835\udc2c"
+            },
+            {
+                "id": "-1001937322672",
+                "name": "\ud835\udc17\ud835\udc00\ud835\udc14\ud835\udc14\ud835\udc12\ud835\udc03 \ud835\udc12\ud835\udc0a\ud835\udc18 \ud835\udc13\ud835\udc11\ud835\udc00\ud835\udc03\ud835\udc04\ud835\udc11"
+            },
+            {
+                "id": "-1001296949283",
+                "name": "FOREX GOLD XAUUSD SIGNALS"
+            },
+            {
+                "id": "-1001154969248",
+                "name": "Worldwide FxTrade"
+            },
+            {
+                "id": "-1003003212033",
+                "name": "Rapid Scalpers\u00ae"
+            },
+            {
+                "id": "-1001212188460",
+                "name": "White Rose Crypto"
+            },
+            {
+                "id": "-1001649959262",
+                "name": "XAUUSD_Gold_Market"
+            },
+            {
+                "id": "-1002435401670",
+                "name": "RugPullBot.com"
+            },
+            {
+                "id": "-1001356549464",
+                "name": "Forex Smart Money Concept (FSMC)"
+            },
+            {
+                "id": "-1001363690466",
+                "name": "Fx Broker Signals"
+            },
+            {
+                "id": "-1001680297592",
+                "name": "GOLD EMPIRE"
+            },
+            {
+                "id": "-1001948560464",
+                "name": "\ud835\udc05\ud835\udc0e\ud835\udc11\ud835\udc04\ud835\udc17 \ud835\udc13\ud835\udc11\ud835\udc00\ud835\udc03\ud835\udc08\ud835\udc0d\ud835\udc06 \ud835\udc12\ud835\udc08\ud835\udc06\ud835\udc0d\ud835\udc00\ud835\udc0b\ud835\udc12"
+            },
+            {
+                "id": "-1002146764160",
+                "name": "FOREX BITCOIN SIGNALS"
+            },
+            {
+                "id": "-1001246709739",
+                "name": "Bitcoin Crypto Signals"
+            },
+            {
+                "id": "-1002643907488",
+                "name": "\ud835\uddda\ud835\udde2\ud835\udddf\ud835\uddd7 \ud835\udfed\ud835\udff4 \ud835\udddf\ud835\uddd8\ud835\udde9\ud835\uddd8\ud835\udddf"
+            },
+            {
+                "id": "-1001857050845",
+                "name": "Capital Markets"
+            },
+            {
+                "id": "-1002242797679",
+                "name": "Futures VIP Signals CRYPTO"
+            },
+            {
+                "id": "-1003157440341",
+                "name": "GOLD copy trade"
+            },
+            {
+                "id": "-1001438122128",
+                "name": "Gold Bulls Traders"
+            },
+            {
+                "id": "-1002386946016",
+                "name": "\ud835\udc17\ud835\udc00\ud835\udc14\ud835\udc14\ud835\udc12\ud835\udc03 \ud835\udfcf\ud835\udfd6 \ud835\udc0c\ud835\udc00\ud835\udc12\ud835\udc13\ud835\udc04\ud835\udc11"
+            },
+            {
+                "id": "-1001235489570",
+                "name": "Crypto TA King \ud83d\udc0b"
+            },
+            {
+                "id": "-1001703646739",
+                "name": "\ud835\udd57\ud835\udd66\ud835\udd65\ud835\udd66\ud835\udd63\ud835\udd56\ud835\udd64 \ud835\udd54\ud835\udd59\ud835\udd52\ud835\udd63\ud835\udd65"
+            },
+            {
+                "id": "-1001293333388",
+                "name": "OKAKO TRADING ( trade log )"
+            },
+            {
+                "id": "-1002034026452",
+                "name": "Forex Signals FXSMS"
+            },
+            {
+                "id": "-1001596741265",
+                "name": "\u269c\ufe0f \ud835\udc05\ud835\udc1a\ud835\udc1b\ud835\udc2e\ud835\udc25\ud835\udc28\ud835\udc2e\ud835\udc2c \ud835\udc00\ud835\udc27\ud835\udc1a\ud835\udc25\ud835\udc32\ud835\udc2c\ud835\udc22\ud835\udc2c \ud835\udc13\ud835\udc2b\ud835\udc1a\ud835\udc1d\ud835\udc1e \u269c\ufe0f"
+            },
+            {
+                "id": "-1002222282883",
+                "name": "Forex FXSMS VIP"
+            },
+            {
+                "id": "-1002807818323",
+                "name": "Supply and demand VIp 100% copier friendly"
+            },
+            {
+                "id": "-1001967476990",
+                "name": "\ud835\uddd9\ud835\udde2\ud835\uddeb\ud835\uddec\ud835\udddc\ud835\uddd6\ud835\udde7\ud835\udde5\ud835\uddd4\ud835\uddd7\ud835\uddd8\ud835\udde5 (\ud835\udde3.\ud835\uddda)"
+            },
+            {
+                "id": "-1002020954687",
+                "name": "Shelpid.WI3M"
+            },
+            {
+                "id": "-1001485786085",
+                "name": "SNIPER SMC & ICT CHARTIST"
+            },
+            {
+                "id": "-1001612126892",
+                "name": "JD_ANALYSIS"
+            },
+            {
+                "id": "-1002480485896",
+                "name": "CopyTrader FREE Signals"
+            },
+            {
+                "id": "-1001732575028",
+                "name": "GSFX Public Community\u2122"
+            },
+            {
+                "id": "-1001334309770",
+                "name": "\ud835\ude41\ud835\ude53_\ud835\ude46\ud835\ude44\ud835\ude47\ud835\ude47\ud835\ude40\ud835\ude4d (\ud835\ude4f\ud835\ude4d\ud835\ude3c\ud835\ude3f\ud835\ude40\ud835\ude4d)"
+            },
+            {
+                "id": "-1002435254338",
+                "name": "WEALTHY FUTURES TRADE\ud83d\udcca"
+            },
+            {
+                "id": "-1001382986975",
+                "name": "The Bull"
+            },
+            {
+                "id": "-1002478312893",
+                "name": "TW Rsi and EMA 77 alerts \u26a0\ufe0f"
+            },
+            {
+                "id": "-1002095313883",
+                "name": "\ud835\uddd8\ud835\udddf\ud835\udddc\ud835\udde7\ud835\uddd8 \ud835\uddda\ud835\udde2\ud835\udddf\ud835\uddd7 \ud835\udde6\ud835\udddc\ud835\uddda\ud835\udde1\ud835\uddd4\ud835\udddf"
+            },
+            {
+                "id": "-1001861249831",
+                "name": "Crypto Insider Signal"
+            },
+            {
+                "id": "-1002051627942",
+                "name": "Gavin Binary Option Signals \ud83d\udc33"
+            },
+            {
+                "id": "-1002228998586",
+                "name": "\ud835\udde7\ud835\udde5\ud835\uddd4\ud835\uddd7\ud835\uddd8 \ud835\uddea\ud835\udddc\ud835\udde7\ud835\udddb \ud835\uddd4\ud835\udde5\ud835\udded"
+            },
+            {
+                "id": "-1001196269106",
+                "name": "PrimeXBT Announcements"
+            },
+            {
+                "id": "-1001797254407",
+                "name": "The CopyTrader Public"
+            },
+            {
+                "id": "-1001966506182",
+                "name": "THE BITCOIN VAULT (CRYPTO SCALP)"
+            },
+            {
+                "id": "-1001858822331",
+                "name": "\u26a1\ufe0fTyler Trades"
+            },
+            {
+                "id": "-1002156877894",
+                "name": "Crypto Signals with Leo \ud83d\ude80"
+            },
+            {
+                "id": "-1003260356434",
+                "name": "test"
+            },
+            {
+                "id": "-1001811990639",
+                "name": "Chuck Index"
+            },
+            {
+                "id": "-1002564049446",
+                "name": "The CopyTrader Automation - Public"
+            },
+            {
+                "id": "-1001819684285",
+                "name": "ANONYMOUS TRADERS(\ud83e\udd77)"
+            },
+            {
+                "id": "-1002168712050",
+                "name": "\ud835\udc05\ud835\udc17 \ud835\udc0f\ud835\udc00\ud835\udc08\ud835\udc11 \ud835\udc0c\ud835\udc0e\ud835\udc0d\ud835\udc08\ud835\udc13\ud835\udc0e\ud835\udc11"
+            },
+            {
+                "id": "-1001885882477",
+                "name": "Xeroxwrld comments"
+            },
+            {
+                "id": "-1002043017215",
+                "name": "Xerox crypto/Forex world \ud83d\udcc8\ud83d\udcc9"
+            },
+            {
+                "id": "-5040032474",
+                "name": "Me"
+            },
+            {
+                "id": "-1001205064273",
+                "name": "S and D snipper intraday vip"
+            },
+            {
+                "id": "-1001766679109",
+                "name": "XauUsdZee"
+            },
+            {
+                "id": "-1001714214360",
+                "name": "Rogue Snipers (Forex)"
+            },
+            {
+                "id": "-1001587640480",
+                "name": "ProfitFarmers Crypto Signals1"
+            },
+            {
+                "id": "-1001675031820",
+                "name": "ProfitFarmers Crypto Signals2"
+            },
+            {
+                "id": "-1001197704268",
+                "name": "ProfitFarmers Crypto Signals3"
+            },
+            {
+                "id": "-1001580972140",
+                "name": "ProfitFarmers Crypto Signals \ud83c\udfc6\ud83e\udd47"
+            },
+            {
+                "id": "-1002520164159",
+                "name": "Rashid's Alpha"
+            },
+            {
+                "id": "-1001731591385",
+                "name": "Advance Course and materials channel"
+            },
+            {
+                "id": "-1002041761858",
+                "name": "OKAKO (VIP)"
+            },
+            {
+                "id": "-1001184642231",
+                "name": "EFP History"
+            },
+            {
+                "id": "-1001741920113",
+                "name": "Crypto"
+            },
+            {
+                "id": "-1001890685004",
+                "name": "Kill The Market Leaked Signal"
+            },
+            {
+                "id": "-1001486939324",
+                "name": "SnD_SMC \u2122"
+            },
+            {
+                "id": "-1001362383030",
+                "name": "Mission FX Trading"
+            },
+            {
+                "id": "-1001938618209",
+                "name": "Bitcoin Bulls\u2122"
+            },
+            {
+                "id": "-1001764945988",
+                "name": "Crypto Emojis"
+            }
+        ]
+    },
+    "words": {
+        "allowed": [
+            "allow"
+        ],
+        "blocked": [
+            "Block"
+        ]
+    }
+}
