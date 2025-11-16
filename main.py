@@ -7,7 +7,10 @@ from os import getenv
 import asyncio
 import re
 
-logging.basicConfig(format='[%(levelname) %(asctime)s] %(name)s: %(message)s', level=logging.WARNING)
+logging.basicConfig(
+    format='[%(levelname)s %(asctime)s] %(name)s: %(message)s',
+    level=logging.WARNING
+)
 load_dotenv()
 
 # TELEGRAM CLIENT SETUP
