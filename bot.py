@@ -282,6 +282,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def add_word_event(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global input_state, request_add_word
     text = update.message.text
+    print(text)
     # -----------------------------
     if text == "Start input":
         # user pressed the ReplyKeyboardButton

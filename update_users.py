@@ -1,3 +1,4 @@
+from telethon.sessions import StringSession
 from telethon import TelegramClient, events
 from telethon.tl import types
 import json
@@ -5,7 +6,7 @@ import logging
 from dotenv import load_dotenv
 from os import getenv
 import asyncio
-import re
+
 
 logging.basicConfig(
     format='[%(levelname)s %(asctime)s] %(name)s: %(message)s',
@@ -16,7 +17,8 @@ load_dotenv()
 # TELEGRAM CLIENT SETUP
 api_id = int(getenv('API_KEY'))  
 api_hash = getenv('API_HASH')
-client = TelegramClient('data/anon', api_id, api_hash)
+SESSION = getenv('SESSION')
+client = TelegramClient(StringSession(SESSION), api_id, api_hash)
 forwarded_ch = int(getenv('FORWARDED_CHANNEL'))
 JSON = 'data.json'
 BOT = int(getenv('BOT')) 
@@ -40,51 +42,27 @@ def load_json():
         file_lists["blocked_users"] = file["users"]["blocked"]
         file_lists['allowed_words'] = file['words']['allowed']
         file_lists["blocked_words"] = file["words"]["blocked"]
+
 counter = 0
-# PROGRAM main event
+# BOT update event
 # @client.on(events.NewMessage(incoming=True))
-@client.on(events.NewMessage(incoming=True, pattern = re.compile(r"(" + "|".join(map(re.escape, file_lists["allowed_words"])) + r")", re.IGNORECASE)))
+@client.on(events.NewMessage(outgoing=True))
 async def my_event_handler(event):
     global counter
     counter += 1
     print(counter)
-    load_json()
-    # CHECK users
-    chat_id = str(event.chat_id)
-    # 1 - allowed user
-    if chat_id in [d['id'] for d in file_lists['allowed_users']]:
-            await event.forward_to(forwarded_ch)
-            print("forwarded -- allowed id")
-            return
     
-    # 2 - not allowed word
+    # CHECK msg
+    chat_id = event.chat_id
     message = event.message.message
-    found_allowed_word = any(a_word in message for a_word in file_lists['allowed_words'])
-    if not found_allowed_word and (message != '/update'):
+    print(message)
+    # extra (BOT): check added/removed channels/groups
+    if chat_id == BOT and message == '/update':
+        msgs = await refresh()
+        for i in range(0, len(msgs), 30):
+            await client.send_message(BOT, "\n".join(msgs[i:i+100]))
+        print('succeed')
         return
-    
-    else:
-        # 3 - blocked user
-        if chat_id in [d['id'] for d in file_lists['blocked_users']]:
-            print("not forwarded -- blocked id")
-            return
-        # 4 - blocked word
-        found_blocked_word = any(b_word in message for b_word in file_lists['blocked_words'])
-        if found_blocked_word:
-            print("not forwarded -- blocked word")
-            return
-        # 5 - neither user/word is blocked
-        if found_allowed_word:
-            await event.forward_to(forwarded_ch)
-            print("forwarded -- allowed word")
-            return  
-         
-        # extra (BOT): check added/removed channels/groups
-        if chat_id == BOT and message == '/update':
-            msgs = await refresh()
-            for i in range(0, len(msgs), 30):
-                await client.send_message(BOT, "\n".join(msgs[i:i+100]))
-            return
 
 # -----------------------------------------------------         
 # Detect when a chat/channel is deleted or inaccessible
@@ -136,4 +114,5 @@ async def refresh():
 
 with client:
     load_json()
+    print('Update running')
     client.run_until_disconnected()
