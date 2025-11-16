@@ -16,7 +16,7 @@ load_dotenv()
 # TELEGRAM CLIENT SETUP
 api_id = int(getenv('API_KEY'))  
 api_hash = getenv('API_HASH')
-client = TelegramClient('anon', api_id, api_hash)
+client = TelegramClient('/tmp/anon', api_id, api_hash)
 forwarded_ch = int(getenv('FORWARDED_CHANNEL'))
 JSON = 'data.json'
 BOT = int(getenv('API_KEY')) 
